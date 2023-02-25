@@ -1,7 +1,10 @@
 package proyecto2.pkg1;
 
 public class Proyecto2 {
-
+   /*
+    2. Ingresar a una lista enlazada simple n elementos y calcular cual es el mayor de la 
+    lista. Imprimir el número mayor y luego la lista.
+    */
     public static void main(String[] args) {
         ListaEnlazada lista = new ListaEnlazada();
         lista.agregarElemento(95);
